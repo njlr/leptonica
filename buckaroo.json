@@ -1,0 +1,8 @@
+{
+  "name": "leptonica",
+  "dependencies": {
+    "luadist/libtiff": "3.8.2",
+    "luadist/libpng": "1.5.10",
+    "webmproject/libwebp": "0.6.0"
+  }
+}
